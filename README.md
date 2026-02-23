@@ -26,8 +26,3 @@ Terminy is a production-grade, cross-platform SSH and SFTP client built with Flu
 - **Seamless Sharing & QR Integration:** Quickly share connection configurations or authenticate using built-in QR code generation and mobile scanning capabilities.
 - **Native File Handling:** Deep integration with the system's native file picker and file sharing mechanisms.
 
-### ☁️ Cloud & Premium Extras
-
-- **Cloud Authentication & Sync:** Integrated with Firebase Authentication (including Google Sign-In) for secure user sessions and config synchronization across multiple devices.
-- **Premium Tiers:** Access advanced professional functionalities through secure, integrated in-app purchases.
-- **Background Processing:** Support for executing persistent background tasks ensuring uninterrupted operations on mobile devices.
