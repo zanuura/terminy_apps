@@ -6,7 +6,7 @@
 
 ## About
 
-Terminy is a production-grade, cross-platform SSH and SFTP client built with Flutter. Designed for professionals, system administrators, and developers, it delivers a seamless and secure terminal experience across Windows, macOS, iOS, and Android. By combining a robust SSH protocol implementation with a high-performance terminal emulator, this application provides reliable remote server management, secure file transfers, and advanced authentication mechanisms—all within a modern, intuitive user interface.
+Terminy is a mobile cross-platform SSH and SFTP client built with Flutter. Designed for professionals, system administrators, and developers, it delivers a seamless and secure terminal experience across iOS, and Android. By combining a robust SSH protocol implementation with a high-performance terminal emulator, this application provides reliable remote server management, secure file transfers, and advanced authentication mechanisms—all within a modern, intuitive user interface.
 
 ## Key Features
 
@@ -24,7 +24,16 @@ Terminy is a production-grade, cross-platform SSH and SFTP client built with Flu
 
 ### 💻 Cross-Platform & Productivity
 
-- **True Cross-Platform Support:** Enjoy a consistent, native-feeling experience across Desktop (macOS, Windows) and Mobile (iOS, Android).
-- **Desktop Integrations:** Tailored desktop features including system tray integration, window management, and native drag-and-drop file support for maximum productivity.
+- **True Cross-Platform Support:** Enjoy a consistent, native-feeling experience across Mobile (iOS, Android).
 - **Seamless Sharing & QR Integration:** Quickly share connection configurations or authenticate using built-in QR code generation and mobile scanning capabilities.
 - **Native File Handling:** Deep integration with the system's native file picker and file sharing mechanisms.
+
+### Future Update
+1. Available on Windows
+2. Available on  macOS
+3. Security
+4. Subscription
+
+### Future Release
+1. PlayStore - Coming Soon
+2. AppStore - Coming Soon
