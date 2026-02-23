@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/image_1.png" width="auto" alt="Terminy App Screenshot 1" />
+</p>
 
 # Terminy (SSH Terminal)
 
@@ -25,4 +28,3 @@ Terminy is a production-grade, cross-platform SSH and SFTP client built with Flu
 - **Desktop Integrations:** Tailored desktop features including system tray integration, window management, and native drag-and-drop file support for maximum productivity.
 - **Seamless Sharing & QR Integration:** Quickly share connection configurations or authenticate using built-in QR code generation and mobile scanning capabilities.
 - **Native File Handling:** Deep integration with the system's native file picker and file sharing mechanisms.
-
